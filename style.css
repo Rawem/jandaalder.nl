@@ -1,14 +1,13 @@
 body {
-<<<<<<< HEAD
-  	text-align: justified;
-  	position: fixed;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
+  text-align: justified;
+  position: absolute;
+	top: 25%;
+  right: 25%;
+	left: 25%;
 }
 
 header {
-	text-align: left;
+	text-align: center;
 }
 
 
@@ -23,19 +22,19 @@ a:visited {
 }
 
 a:hover {
-	color: gray;
+	color: #545454;
 	font-family: Helvetica;
 }
 
 p {
-  	font-family: Garamond; 
-  	color: black;
+  	font-family: Helvetica; 
+  	color: #545454;
   	line-height: 140%;
 }
 
 h1 {
-  	font-family: Helvetica;
-  	color: gray;
+  	font-family: Garamond;
+  	color: #545454;
   	font-weight: bold;
 }
 
@@ -60,17 +59,4 @@ li a {
     padding-bottom: 15px;
     padding-top: 15px;
     text-decoration: none;
-=======
-  font: Helvetica;
-}
-
-p {
-  font: Helvetica; 
-  color: red;
-}
-
-h1 {
-  font: Garamond;
-  color: blue;
->>>>>>> 359f2c4c7687da07f8b3438cd42f51d35660b696
 }
