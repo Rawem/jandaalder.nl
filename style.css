@@ -4,10 +4,11 @@ body {
 
 p {
   font: Helvetica; 
-  color: red;
+  color: black;
 }
 
 h1 {
   font: Garamond;
-  color: blue;
+  color: gray;
+  font-weight: bold;
 }
