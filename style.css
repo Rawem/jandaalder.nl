@@ -1,0 +1,13 @@
+body {
+  font: Helvetica;
+}
+
+p {
+  font: Helvetica; 
+  color: red;
+}
+
+h1 {
+  font: Garamond;
+  color: blue;
+}
