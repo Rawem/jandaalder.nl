@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
   	text-align: justified;
   	position: fixed;
 	top: 50%;
@@ -59,4 +60,17 @@ li a {
     padding-bottom: 15px;
     padding-top: 15px;
     text-decoration: none;
+=======
+  font: Helvetica;
+}
+
+p {
+  font: Helvetica; 
+  color: red;
+}
+
+h1 {
+  font: Garamond;
+  color: blue;
+>>>>>>> 359f2c4c7687da07f8b3438cd42f51d35660b696
 }
