@@ -42,6 +42,7 @@ p {
 	color: #545454;
 	line-height: 140%;
   text-align: justified;
+  font-size: 18px;
 }
 
 h1 {
@@ -62,6 +63,7 @@ li {
   float: left;
   font-family: Helvetica;
   font-size: 120%;
+  font-size: 18px;
 }
 
 li a {
