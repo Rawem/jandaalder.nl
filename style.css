@@ -75,6 +75,6 @@ li a {
 }
 
 .activepage {
-  font-weight: bold;
+  text-decoration: underline;
   color: #680303;
 }
