@@ -9,6 +9,11 @@ nav {
   text-align: center;
   margin-left: 25%;
   margin-right: 25%;
+  border-style: solid;
+  border-bottom-color: #91050f;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
 }
 
 article {
@@ -18,17 +23,17 @@ article {
 }
 
 a:link {
-	color: black;
+	color: #545454;
 	font-family: Helvetica;
 }
 
 a:visited {
-	color: black;
+	color: #545454;
 	font-family: Helvetica;
 }
 
 a:hover {
-	color: #680303;
+	color: #91050f;
 	font-family: Helvetica;
 }
 
@@ -41,7 +46,7 @@ p {
 
 h1 {
 	font-family: Garamond;
-	color: #680303;
+	color: #91050f;
 	font-weight: bold;
   font-size: 48px;
 }
@@ -69,12 +74,7 @@ li a {
   text-decoration: none;
 }
 
-#jandaalder {
-  font-size: 150%;
-  color: black;
-}
-
 .activepage {
   text-decoration: underline;
-  color: #680303;
+  color: #91050f;
 }
