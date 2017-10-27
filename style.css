@@ -1,14 +1,14 @@
 header {
   text-align: left;
   margin-top: 10%;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 nav {
   text-align: center;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 30%;
+  margin-right: 30%;
   border-style: solid;
   border-bottom-color: #91050f;
   border-top: 0;
@@ -18,8 +18,8 @@ nav {
 
 article {
   text-align: justify;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 a:link {
