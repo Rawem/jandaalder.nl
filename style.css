@@ -42,11 +42,11 @@ p {
 	color: #545454;
 	line-height: 140%;
   text-align: justified;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 h1 {
-	font-family: Garamond;
+	font-family: 'Fjalla One';
 	color: #91050f;
 	font-weight: bold;
   font-size: 48px;
